@@ -1,8 +1,8 @@
 # partition-coding
 
-## About "La tondeuse"
+## About "Partition"
 
-une fonction « partition » qui prend un paramètre « liste » et un paramètre « taille » et retourne une liste de sous liste, où chaque sous liste a au maximum « taille » éléments.
+A “partition” function which takes a “list” parameter and a “size” parameter and returns a list of sublists, where each sublist has maximum “size” elements.
 
 ## Prerequisite for this application.
 
